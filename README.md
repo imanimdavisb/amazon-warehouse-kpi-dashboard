@@ -1,6 +1,6 @@
 # Amazon Warehouse KPI Dashboard
 
-![Dashboard Screenshot](dashboard-screenshot.png)
+![Amazon Warehouse KPI Dashboard](dashboard-screenshot.jpg)
 
 ## Overview
 
