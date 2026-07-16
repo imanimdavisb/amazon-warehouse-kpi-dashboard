@@ -138,7 +138,8 @@ This project demonstrates how SQL and Python can be used together to transform o
 
 **Imani Davis**
 
-GitHub: https://github.com/imanimdavisb
+** GitHub:**  
+https://github.com/imanimdavisb
 
 **LinkedIn:**  
 https://www.linkedin.com/in/imani-davis-8a5169b4/
