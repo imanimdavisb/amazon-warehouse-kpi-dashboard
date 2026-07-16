@@ -140,4 +140,5 @@ This project demonstrates how SQL and Python can be used together to transform o
 
 GitHub: https://github.com/imanimdavisb
 
-LinkedIn: *[(Add your LinkedIn profile URL here.)](https://www.linkedin.com/in/imani-davis-8a5169b4/)*
+**LinkedIn:**  
+https://www.linkedin.com/in/imani-davis-8a5169b4/
