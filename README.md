@@ -134,11 +134,13 @@ This project demonstrates how SQL and Python can be used together to transform o
 
 ---
 
-# Author
+
+
+## Connect With Me
 
 **Imani Davis**
 
-** GitHub:**  
+**GitHub:**  
 https://github.com/imanimdavisb
 
 **LinkedIn:**  
